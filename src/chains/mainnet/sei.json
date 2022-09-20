@@ -1,0 +1,20 @@
+{
+    "chain_name": "SEI-TEST",
+    "coingecko": "",
+    "api": ["https://sei-atlantic-api.onepiece-cosmos-explorer.xyz"],
+    "rpc": ["https://sei-atlantic-rpc.onepiece-cosmos-explorer.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "505",
+    "min_tx_fee": "800",
+    "addr_prefix": "sei",
+    "logo": "https://nodeist.net/projeler/sei.png",
+    "assets": [{
+        "base": "usei",
+        "symbol": "SEI",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://nodeist.net/projeler/sei.png"
+    }]
+}
+

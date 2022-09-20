@@ -1,0 +1,20 @@
+{
+    "chain_name": "SEI-SUB-1-TEST",
+    "coingecko": "",
+    "api": ["https://sei.gei-explorer.xyz"],
+    "rpc": ["https://sei-rpc.gei-explorer.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "505",
+    "min_tx_fee": "800",
+    "addr_prefix": "sei",
+    "logo": "https://nodeist.net/projeler/sei.png",
+    "assets": [{
+        "base": "usei",
+        "symbol": "SEI",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://nodeist.net/projeler/sei.png"
+    }]
+}
+
